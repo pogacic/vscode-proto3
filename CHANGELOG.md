@@ -1,5 +1,9 @@
 # Release Notes
 
+## 0.5.8
+
+- Updated dependencies
+
 ## 0.5.7 (Unreleased)
 
 ### Bug Fixes
